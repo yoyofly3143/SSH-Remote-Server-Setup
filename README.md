@@ -71,5 +71,3 @@ ssh my-ecs
 - 生成了两对密钥 ✅  
 - 配置公钥到 ECS ✅  
 - 验证 SSH 免密登录 ✅  
-
-https://roadmap.sh/projects/ssh-remote-server-setup
